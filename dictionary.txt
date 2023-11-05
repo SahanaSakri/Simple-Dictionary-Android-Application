@@ -1,0 +1,88 @@
+apple, A round fruit with red or green skin.
+banana, A long curved fruit with yellow skin.
+cat, A small domesticated carnivorous mammal.
+dog, A domesticated carnivorous mammal with four legs.
+elephant, A huge mammal with a long trunk and large ears.
+flower, The reproductive structure of a plant, typically colorful and fragrant.
+guitar, A stringed musical instrument with a fretted fingerboard and a body.
+house, A building for human habitation.
+internet, A global computer network providing information and communication facilities.
+jazz, A genre of popular music that originated in African American communities.
+kangaroo, A marsupial native to Australia with powerful hind legs and a tail.
+lion, A large tawny-colored cat that lives in prides, found in Africa and Asia.
+mountain, A large natural elevation of the earth's surface rising abruptly from the surrounding level.
+notebook, A book with blank pages for writing notes or other records.
+ocean, A very large expanse of sea, in particular each of the main areas into which the sea is divided.
+piano, A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings.
+queen, The female ruler of an independent state, especially one who inherits the position by right of birth.
+rainbow, An arc of colors formed in the sky by the reflection and dispersion of the sun's rays in rain or mist.
+sunset, The time in the evening when the sun disappears or daylight fades.
+tiger, A large carnivorous feline mammal that lives in forests and grasslands of Asia.
+universe, All existing matter, space, and energy considered as a whole.
+violet, A bluish-purple color.
+wallet, A small folding case for carrying paper currency, cards, and other personal items.
+xylophone, A musical instrument played by striking a row of wooden bars with mallets.
+yoga, A physical, mental, and spiritual practice originating in ancient India.
+zebra, A large African mammal with black and white stripes.
+airplane, A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.
+beach, A sandy or pebbly shore by the ocean, lake, or river.
+camera, A device used to capture and record visual images.
+dolphin, A marine mammal known for its intelligence and playful behavior.
+eagle, A large predatory bird with a hooked beak and strong wings.
+fire, The process of combustion producing light, heat, and flames.
+globe, A spherical model of the Earth.
+hamburger, A flat round patty of ground beef, served in a bun.
+island, A piece of land surrounded by water.
+jungle, An area of land overgrown with dense vegetation and tangled trees.
+koala, A small arboreal marsupial native to Australia.
+lemon, A yellow citrus fruit with a sour taste.
+moon, The natural satellite of the Earth.
+ninja, A skilled warrior trained in ancient Japanese martial arts.
+orchid, A colorful flowering plant.
+pizza, A dish consisting of a round, flattened base of dough topped with cheese, sauce, and various toppings.
+robot, A machine capable of carrying out complex actions automatically.
+star, A luminous sphere of plasma held together by its gravity.
+tree, A woody perennial plant with a distinct trunk and branches.
+umbrella, A device used to provide shade or protection from rain.
+volcano, A mountain or hill with a crater or vent where lava, rock fragments, and gases erupt.
+waterfall, A cascade of water falling from a height.
+zeppelin, A type of airship characterized by a rigid structure.
+ant, A small insect typically forming large colonies.
+butterfly, An insect with large, often brightly colored wings.
+car, A road vehicle with an engine and four wheels.
+dinosaur, A prehistoric reptile that lived millions of years ago.
+elephant, A large herbivorous mammal with a long trunk and tusks.
+fox, A small carnivorous mammal with a bushy tail.
+giraffe, A tall African mammal with a long neck and patterned coat.
+honey, A sweet, sticky substance produced by bees.
+ice cream, A frozen dessert made from milk or cream.
+jellyfish, A gelatinous marine creature with trailing tentacles.
+kangaroo, A marsupial native to Australia with powerful hind legs and a tail.
+laptop, A portable computer small enough to be used on one's lap.
+mango, A juicy tropical fruit with a yellow or orange flesh.
+night, The period of darkness in each 24-hour cycle.
+ostrich, A large flightless bird with long legs and a long neck.
+parrot, A colorful bird with a curved beak, often capable of mimicking human speech.
+quail, A small game bird with a plump body and short tail.
+rain, Moisture condensed from the atmosphere that falls to the ground.
+snake, A long, legless reptile that slithers on the ground.
+tulip, A bulbous plant with showy flowers.
+umbrella, A folding canopy used for protection against rain or sun.
+violin, A stringed instrument played with a bow.
+whale, A large marine mammal, the largest known animal on Earth.
+xylophone, A musical instrument consisting of wooden bars struck by mallets.
+yacht, A recreational boat used for pleasure or racing.
+zebra, A large African mammal with black and white stripes.
+aardvark, A nocturnal burrowing mammal native to Africa.
+butterfly, An insect with large, often brightly colored wings.
+camel, A large mammal with a humped back, used as a beast of burden in desert regions.
+dolphin, A marine mammal known for its intelligence and playful behavior.
+eagle, A large predatory bird with a hooked beak and strong wings.
+flamingo, A large wading bird with a long neck and pink plumage.
+gazelle, A small to medium-sized antelope native to Africa.
+hyena, A carnivorous mammal known for its scavenging habits.
+iguana, A large lizard native to tropical regions.
+jackal, A medium-sized carnivorous mammal resembling a small wolf.
+kangaroo, A marsupial native to Australia with powerful hind legs and a tail.
+lemur, A small primate native to Madagascar.
+mongoose, A small carnivorous mammal with a long body and tail.
